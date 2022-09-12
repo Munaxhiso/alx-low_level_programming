@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - programm prints all possible different combinations of two digits
- * Return: Always 0
+ * Return: 0
  */
 int main(void)
 {
@@ -14,7 +14,7 @@ int main(void)
 		f_d = (c / 10 + '0');
 		l_d = (c % 10 + '0');
 
-		if  (l_d < l_d)
+		if  (f_d < l_d)
 		{
 			putchar(f_d);
 			putchar(l_d);
