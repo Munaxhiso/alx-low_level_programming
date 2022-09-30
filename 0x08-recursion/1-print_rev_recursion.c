@@ -11,6 +11,6 @@ void _prime_rev_recursion(char *s)
 	if (*s != '\0')
 	{
 		_print_rev_recursion(s + 1);
-		_putchar(char *s);
+		_putchar(*s);
 	}
 }
