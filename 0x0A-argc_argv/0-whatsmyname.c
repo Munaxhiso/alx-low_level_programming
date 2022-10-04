@@ -2,7 +2,7 @@
 
 /**
  * main - prints the name of the program
- * @agrc: number of arguments passed to the function
+ * @argc: number of arguments passed to the function
  * @argv: argument vector of pointers to string
  * Return: always 0
  */
