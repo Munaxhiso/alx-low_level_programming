@@ -3,7 +3,7 @@
 /**
  * main - prints all arguments it receives
  * @argc: number of arguments passed to the function
- * @argv: arguments vecto of pointers to strings
+ * @argv: arguments vector of pointers to strings
  *
  * Return: always 0
  */
